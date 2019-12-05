@@ -5,6 +5,7 @@
 > The app was made in Flutter.
 
 > Just a application of a API consumption
-
+<div>
 <image src="images/Main_Screen.jpg" width=30% >
 <image src="images/Main_Example.jpg" width=30% >
+  </div>
