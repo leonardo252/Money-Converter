@@ -7,7 +7,7 @@
 > Just a application of a API consumption
 
 <div>
-  <image src="images/Main_Screen.jpg" width=30% >
-  <image src="images/Main_Example.jpg" width=30% >
-  <image src="images/Bitcoin_value.jpg" width=30% >
+  <image src="images/Main_Screen.jpg" width=32% >
+  <image src="images/Main_Example.jpg" width=32% >
+  <image src="images/Bitcoin_value.jpg" width=32% >
 </div>
