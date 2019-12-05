@@ -6,4 +6,4 @@
 
 > Just a application of a API consumption
 
-![Alt text](images/Main_Example?raw=true "Main Screen")
+![Main Screen](images/Main_Screen.jpg?raw=true) ![Main Example](images/Main_Example.jpg?raw=true) ![Main Example](images/Bitcoin_value.jpg?raw=true)
