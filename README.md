@@ -6,4 +6,4 @@
 
 > Just a application of a API consumption
 
-![Main Screen](images/Main_Screen.jpg?raw=true) ![Main Example](images/Main_Example.jpg?raw=true) ![Main Example](images/Bitcoin_value.jpg?raw=true)
+<image src="images/Main_Screen.jpg" wifth=50 heigth=50 >
