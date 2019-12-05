@@ -6,4 +6,5 @@
 
 > Just a application of a API consumption
 
-<image src="images/Main_Screen.jpg" width=50% >
+<image src="images/Main_Screen.jpg" width=30% >
+<image src="images/Main_Example.jpg" width=30% >
